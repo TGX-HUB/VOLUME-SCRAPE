@@ -1,0 +1,6 @@
+{
+  "name": "Pump.fun Token Tracker",
+  "description": "Real-time scraper and tracker for Pump.fun tokens, monitoring live price, market cap, volume, buy and sell activity, with raw scraped data inspect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
